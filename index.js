@@ -13,4 +13,3 @@ function (error, results) {
     connection.destroy()
 }
 )
-
